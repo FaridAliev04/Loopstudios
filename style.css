@@ -73,4 +73,96 @@ nav{
     font-size: 1.3rem;
     width: 35rem;
 }
+.main_third-text{
+    margin-top: 1.8rem;
+}
+.main_fourth{
+    display: flex;
+    justify-content: space-between;
+    width: 70rem;
+    margin: 0 auto;
+    margin-top: 14rem;
+    
+}
+.main_fourth-header{
+    font-size: 3rem;
+    
+}
+.main_fourth-link{
+    text-decoration: none;
+    font-size: 1rem;
+    color: black;
+}
+.main_fourth-button{
+background-color: white;
+border: 1px solid  black;
+padding-left: 1rem;
+padding-right: 1rem;
+}
+.main_fifth-box{
+    background-image: url(./photo/desktop/image-deep-earth.jpg);
+    background-repeat: no-repeat;
+}
+.main_fifth-header{
+    padding-top: 23rem;
+    color: white;
+    font-weight: 200;
+    width: 11rem;
+    margin-left: 2.5rem;
+}
+.main_fifth{
+    display: grid;
+    grid-template-columns: 15rem 15rem 15rem 15rem;
+    column-gap: 3rem;
+    width: 70rem;
+    margin: 0 auto;
+    margin-top: 5rem;
+}
+.box-hover{
+    cursor: pointer;
+}
+.main_fifth-box2{
+    background-image: url(./photo/desktop/image-from-above.jpg);
+    margin-top: 1rem;
+}
+.main_fifth-box3{
+    background-image: url(./photo/desktop/image-night-arcade.jpg);
+}
+.main_fifth-box4{
+    background-image: url(./photo/desktop/image-pocket-borealis.jpg);
+    margin-top: 1rem;
+}
+.main_fifth-box5    {
+    background-image: url(./photo/desktop/image-soccer-team.jpg);
+}
+.main_fifth-box6{
+    background-image: url(./photo/desktop/image-curiosity.jpg);
+    margin-top: 1rem;
+}
+.main_fifth-box7{
+    background-image: url(./photo/desktop/image-grid.jpg);
+    
+}
+.main_fifth-box8{
+    background-image: url(./photo/desktop/image-fisheye.jpg);
+    margin-top: 1rem;
+  
+}
+.main_fifth-header1{
+    padding-top: 23rem;
+    color: white;
+    font-weight: 200;
+    width: 9rem;
+    margin-left: 2.5rem;
+}
+.main_fifth-header2{
+    padding-top: 23rem;
+    color: white;
+    font-weight: 200;
+    width: 9rem;
+    margin-left: 2.5rem;
+}
 
+.box-hover:hover{
+filter: drop-shadow(16px 16px 20px black);
+}
