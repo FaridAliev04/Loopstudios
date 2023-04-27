@@ -214,4 +214,17 @@ address{
     .main_second{
         width: 60rem;
     }
+    .main_third-texts{
+        padding: 3rem;
+        left: 18rem;
+    }
+    .main_fourth{
+        width: 60rem;
+    }
+    .main_fifth-boxes1_none{
+        display: none;
+    }
+    .main_fifth{
+        width: 50rem;
+    }
 }
